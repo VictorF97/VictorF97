@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @xVicToR97x, Victor França.
-- 👀 I’m interested in to grow more and more, dedicating myself to my professional and academic career.
-- 🌱 I’m currently learning new programming languages ​​such as javascripty, react-native and python; and also database, MySQL.
-- 💞️ I’m I'm looking for a job in the technology area, so I can build my career and collaborate to the fullest with the company.
-- 📫 How to reach me https://www.linkedin.com/in/victor-fran%C3%A7a-233632185/.
+- 👋 OLà, sou o @xVicToR97x, Victor França.
+- 👀 Tenho interesse em crescer cada vez mais, me dedicando a minha carreira profissional e acadêmica.
+- 🌱 Atualmente estou aprendendo novas linguagens de programação como java, html, Css, node, javascripty, reatJs, C, react-native e python, MySQL; e também chatBox.
+- 💞️ Estou a procura de um emprego na área de tecnologia, para poder construir minha carreira e colaborar ao máximo com a empresa.
+- 📫 Siga também minha página no LinkdIn https://www.linkedin.com/in/victor-fran%C3%A7a-233632185/.
 
 <!---
 xVicToR97x/xVicToR97x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
