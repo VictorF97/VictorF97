@@ -6,9 +6,9 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/vvictorfr)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/franca_victorr/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xVicToR97x&show_icons=true&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorF97&show_icons=true&bg_color=00000000)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xVicToR97x)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorF97)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que possuo conhecimento
 
