@@ -1,5 +1,5 @@
 ### Olá! Me chamo Victor França 👋   
-### Atualmente estou cursando análise e desenvolvimento de sistemas, na UniFecaf.
+### Recém-graduado no curso de Análise e desenvolvimento de sistemas, pela Universidade UniFecaf. Conto com experiência de projetos realizados realizados durante os anos de faculdade, possuo conhecimento em React Native, Javascript, HTML, CSS, React, MySql, entre outras linguagens e métodos de programação.
 ### Apaixonado por tecnoliga e suas inovações.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-fran%C3%A7a-233632185/)
