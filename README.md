@@ -1,5 +1,6 @@
 ### Olá! Me chamo Victor França 👋   
-### Graduado no curso de Análise e desenvolvimento de sistemas, pela Universidade UniFecaf. Atualmente trabalho na empresa AJV - Sistemas, sou desenvolvedor back-end, utilizandos as linguagens de programação JAVA e C#, como banco de dados uso o PL/SQL Oracle.
+### Graduado no curso de Análise e desenvolvimento de sistemas, pela Universidade UniFecaf. 
+### Profissional de tecnologia com experiência em desenvolvimento de APIs back-end e integração de sistemas, buscando aplicar habilidades em C#, Java, .NET e banco de dados relacionais em uma posição que exija a capacidade de resolução de problemas e trabalho em equipe. 
 ### Apaixonado por tecnoliga e suas inovações.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-fran%C3%A7a-233632185/)
